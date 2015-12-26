@@ -1,6 +1,6 @@
 $(function () {
   'use strict';
-    
+    /*test;*/
   QUnit.module('affix plugin')
 
   QUnit.test('should be defined on jquery object', function (assert) {
